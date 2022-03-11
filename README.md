@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @manonaskateb
+- 👋 Hi, I’m Manon Lefebvre
 - 👀 I’m interested in VR hardware, firmware, and software, as well as game development or application development.
 - 🌱 I’m currently learning Network Programming in C and CPP.
 - 💞️ I’m looking to collaborate on anything relevant or similar to my specified interests.
-- 📫 How to reach me manonaskate@gmail.com.
+- 📫 How to reach me manonalefebvre@gmail.com.
 
 <!---
 manonaskateb/manonaskateb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
