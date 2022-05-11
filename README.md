@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on anything relevant or similar to my specified interests.
 - 📫 How to reach me manonalefebvre@gmail.com.
 
+ITCH.IO - https://manonaskate.itch.io/
 <!---
 manonaskateb/manonaskateb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
